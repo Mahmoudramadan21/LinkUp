@@ -201,7 +201,7 @@ NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=your-cloud-name
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Mahmoudramadan21/14.LinkUp.git
+   git clone https://github.com/Mahmoudramadan21/LinkUp.git
    cd linkup
    ```
 
